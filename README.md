@@ -13,7 +13,7 @@
   <br></br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PR713&theme=dark" alt="GitHub Streak" />
   <br></br>
-  <img src="https://github-readme-stats-pr713.vercel.app/api/top-langs/?username=PR713&layout=compact&theme=dark&include_forks=true&langs_count=8&exclude_repo=ms-prs-fem-projects,algorithms-and-data-structures,github-readme-stats-pr713,deployed-django" alt="Top Languages" />
+  <img src="https://github-readme-stats-pr713.vercel.app/api/top-langs/?username=PR713&layout=compact&theme=dark&include_forks=true&langs_count=8&exclude_repo=github-readme-stats-pr713,deployed-django" alt="Top Languages" />
 </p>
 
 ---
