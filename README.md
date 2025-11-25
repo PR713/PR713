@@ -4,7 +4,7 @@
 👨‍💻 **Software Engineer at [Sabre](https://www.sabre.com) — as part of the global travel technology team.**  
 🌐 **Let's connect on [LinkedIn](https://www.linkedin.com/in/radosław-szepielak)**  
 💻 **I enjoy writing code, exploring new technologies, and taking a meticulous approach to projects.**  
-🏋️ **In my free time, I like working out at the gym, listening to music, and playing chess.**
+🏋️ **In my free time, I like working out at the gym, listening to music and playing chess.**
 
 ---
 
@@ -24,6 +24,7 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
@@ -41,7 +42,6 @@
 ### 🛠️ Technologies I Worked With
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
 </div>
