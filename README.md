@@ -3,24 +3,20 @@
 🎓 **AGH UST Computer Science Student**  
 👨‍💻 **Software Engineer at [Sabre](https://www.sabre.com) — as part of the global travel technology team.**  
 🌐 **Let's connect on [LinkedIn](https://www.linkedin.com/in/radosław-szepielak)**  
-💻 **I enjoy writing code, exploring new technologies, and taking a meticulous approach to projects.**  
+💻 **I enjoy writing code, exploring new technologies, and taking a meticulous approach to projects and challenges.**  
 🏋️ **In my free time, I like working out at the gym, listening to music, playing PC games and chess.**
 
 ---
 
-## 🔥 GitHub Stats
+## 🔥 Some GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-pr713.vercel.app/api?username=PR713&show_icons=true&theme=dark&count_private=true" alt="Radek's GitHub stats" />
-  <br></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PR713&theme=dark" alt="GitHub Streak" />
-  <br></br>
   <img src="https://github-readme-stats-pr713.vercel.app/api/top-langs/?username=PR713&layout=compact&theme=dark&include_forks=true&langs_count=8&exclude_repo=cryptography,basics-of-ai,github-readme-stats-pr713,deployed-django" alt="Top Languages" />
 </p>
 
 ---
 
-## 🧠 Languages & Technologies I Know
+## 🧠 Languages & Technologies I Work With
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
